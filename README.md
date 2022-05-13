@@ -10,7 +10,8 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-![Uploading image.png…]()
+<img width="1295" alt="Screenshot 2022-05-13 at 8 09 30 PM" src="https://user-images.githubusercontent.com/3157273/168314608-a2c65b36-721d-4efa-968e-b2874a46bbc4.png">
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
