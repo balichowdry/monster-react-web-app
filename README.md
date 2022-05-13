@@ -10,6 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="1253" alt="image" src="https://user-images.githubusercontent.com/3157273/168295516-7f0513c1-f46a-46fb-9935-f162e8ffb2f0.png">
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -71,6 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # monster-react-web-app
 
 
-# http://localhost:3001/
-<img width="1253" alt="image" src="https://user-images.githubusercontent.com/3157273/168295516-7f0513c1-f46a-46fb-9935-f162e8ffb2f0.png">
 
