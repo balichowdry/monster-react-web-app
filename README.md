@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### This Project is hosted using github static site hosting on the link below
+https://balichowdry.github.io/monster-react-web-app/
+
 ### `npm start`
 
 Runs the app in the development mode.\
