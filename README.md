@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-<img width="1295" alt="Screenshot 2022-05-13 at 8 09 30 PM" src="https://user-images.githubusercontent.com/3157273/168314608-a2c65b36-721d-4efa-968e-b2874a46bbc4.png">
+<img width="1290" alt="image" src="https://user-images.githubusercontent.com/3157273/168422668-64a5d69a-cacd-41c8-a39e-132e03fe6227.png">
 
 
 The page will reload when you make changes.\
